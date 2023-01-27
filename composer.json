@@ -1,0 +1,11 @@
+{
+    "name": "ijonk/rabbitmq-php-2",
+    "authors": [
+        {
+            "name": "Muhammad Rizal"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^3.4"
+    }
+}
